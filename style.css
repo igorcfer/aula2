@@ -1,0 +1,7 @@
+ul.Test {
+  list-style: none;
+}
+
+ul.Test li:before {
+  content: '✓';
+}
